@@ -46,5 +46,5 @@ Apasionado por el análisis de datos y la inteligencia artificial como herramien
 ---
 
 ## 📫 Contacto
-- 📧 tuemail@gmail.com
-- 💼 LinkedIn: tu link
+- ivandanielgg20@gmail.com
+
