@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel García
+# 👋 Hola, soy Daniel García full stack developer
 
 💻 Desarrollador enfocado en desarrollo web, móvil y análisis de datos.  
 🚀 Apasionado por crear soluciones eficientes, escalables y basadas en datos.
